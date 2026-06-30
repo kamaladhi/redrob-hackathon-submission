@@ -1,5 +1,8 @@
 # Redrob Hackathon: Intelligent Candidate Discovery & Ranking
 
+**Team:** Neural Recruit  
+**Member:** Jeevakamal K R
+
 This repository contains our submission for the Redrob Intelligent Candidate Discovery & Ranking Challenge.
 
 ## Architecture
