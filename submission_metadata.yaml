@@ -1,0 +1,21 @@
+team_name: ""
+primary_contact_name: "Jeevakamal K R"
+primary_contact_email: "jeevakamal2005@gmail.com"
+primary_contact_phone: "+919385967737"
+
+github_repo_url: "https://github.com/kamaladhi/redrob-hackathon-submission"
+
+# Link to your sandbox. E.g. Docker Hub image, HuggingFace space, Streamlit Cloud app.
+sandbox_demo_link: "https://github.com/kamaladhi/redrob-hackathon-submission"
+
+ai_tools_declared:
+  - "Gemini 3.1 Pro"
+
+compute_environment_summary: "Windows 11, Intel Core i9, 32GB RAM, Python 3.12 (Offline preprocessing done locally, ranking script runs within 17s on CPU)"
+
+team_members:
+  - name: "Jeevakamal K R"
+    email: "[EMAIL_ADDRESS]"
+
+methodology_summary: |
+  We utilized an offline pre-computation pipeline to generate dense vector embeddings for all candidates using the `all-MiniLM-L6-v2` transformer model and built a highly optimized FAISS index. During the 5-minute ranking step, our system performs a lightning-fast semantic similarity search against the Job Description embedding. This base score is then modulated by a hybrid scoring algorithm that heavily penalizes irrelevant job titles, dynamically scales scores based on `redrob_signals` (recruiter response rate, notice period), and matches hard keyword constraints. Reasoning is generated using a deterministic factual templating system to eliminate LLM hallucination and ensure runtime fits within the CPU budget.

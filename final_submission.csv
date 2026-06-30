@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0030031,1,0.6213,5.7 years of experience with current role as AI Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (94%).
+CAND_0050454,2,0.5737,6.8 years of experience with current role as AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (77%).
+CAND_0045250,3,0.5537,6.6 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (74%).
+CAND_0049538,4,0.5431,5.8 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (72%).
+CAND_0002025,5,0.5337,5.9 years of experience with current role as Senior AI Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (80%).
+CAND_0068351,6,0.5114,6.4 years of experience with current role as Lead AI Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (86%).
+CAND_0053591,7,0.4989,5.3 years of experience with current role as AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (81%).
+CAND_0073007,8,0.4987,5.8 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (83%).
+CAND_0062247,9,0.4981,7.3 years of experience with current role as AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (78%).
+CAND_0098454,10,0.4954,6.6 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (87%).
+CAND_0024947,11,0.4897,6.1 years of experience with current role as AI Research Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (79%).
+CAND_0006418,12,0.4869,5.7 years of experience with current role as Machine Learning Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (92%).
+CAND_0060054,13,0.4839,6.4 years of experience with current role as AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (86%).
+CAND_0076482,14,0.4818,6.6 years of experience with current role as ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (86%).
+CAND_0043860,15,0.4764,6.1 years of experience with current role as Junior ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (81%).
+CAND_0038368,16,0.4752,5.4 years of experience with current role as ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (68%).
+CAND_0067866,17,0.4741,6.4 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (79%).
+CAND_0044222,18,0.4725,7.7 years of experience with current role as AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (60%).
+CAND_0013665,19,0.4714,5.2 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (73%).
+CAND_0058688,20,0.471,6.7 years of experience with current role as AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (74%).
+CAND_0072660,21,0.4675,7.1 years of experience with current role as Machine Learning Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (53%).
+CAND_0036184,22,0.4666,6.0 years of experience with current role as Recommendation Systems Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (90%).
+CAND_0052682,23,0.4653,6.6 years of experience with current role as NLP Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (88%).
+CAND_0025640,24,0.465,5.6 years of experience with current role as AI Research Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (87%).
+CAND_0012837,25,0.4649,6.4 years of experience with current role as Junior ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (81%).
+CAND_0055905,26,0.4643,8.1 years of experience with current role as Senior Machine Learning Engineer. Strong background in Python. Excellent recruiter response rate (87%).
+CAND_0064256,27,0.4631,6.4 years of experience with current role as Junior ML Engineer. Strong background in Python. Excellent recruiter response rate (86%).
+CAND_0081686,28,0.4601,6.0 years of experience with current role as Search Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (91%).
+CAND_0047542,29,0.4587,5.0 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (75%).
+CAND_0049978,30,0.4581,6.6 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (71%).
+CAND_0068932,31,0.458,5.2 years of experience with current role as ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (82%).
+CAND_0002120,32,0.4567,6.5 years of experience with current role as ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (72%).
+CAND_0051292,33,0.4555,5.2 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (52%).
+CAND_0099806,34,0.4542,4.6 years of experience with current role as AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (76%).
+CAND_0078002,35,0.4528,6.3 years of experience with current role as Machine Learning Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (86%).
+CAND_0068811,36,0.4485,8.0 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval.
+CAND_0077498,37,0.4482,5.4 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (89%).
+CAND_0024990,38,0.448,5.2 years of experience with current role as Junior ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (83%).
+CAND_0070525,39,0.4479,5.4 years of experience with current role as Senior Software Engineer (ML). Strong background in Python. Excellent recruiter response rate (93%).
+CAND_0019845,40,0.4471,3.4 years of experience with current role as AI Specialist. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (78%).
+CAND_0079284,41,0.4442,4.9 years of experience with current role as Machine Learning Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (79%).
+CAND_0046525,42,0.444,6.1 years of experience with current role as Senior Machine Learning Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (88%).
+CAND_0000031,43,0.4437,6.0 years of experience with current role as Recommendation Systems Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (91%).
+CAND_0008295,44,0.4434,6.5 years of experience with current role as AI Research Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (89%).
+CAND_0037566,45,0.4422,6.9 years of experience with current role as Machine Learning Engineer. Strong background in Vector DBs/Retrieval.
+CAND_0028527,46,0.4411,5.4 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (90%). Concern: notice period is long (90 days).
+CAND_0020350,47,0.4408,5.8 years of experience with current role as AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (57%).
+CAND_0010541,48,0.4382,6.2 years of experience with current role as AI Research Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (59%).
+CAND_0042425,49,0.4368,3.3 years of experience with current role as AI Specialist. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (85%).
+CAND_0032527,50,0.4346,3.9 years of experience with current role as Junior ML Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (81%).
+CAND_0082262,51,0.4329,5.9 years of experience with current role as Senior Software Engineer (ML). Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (64%).
+CAND_0043228,52,0.4327,6.8 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval.
+CAND_0061655,53,0.4321,4.6 years of experience with current role as Machine Learning Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (88%).
+CAND_0079387,54,0.4296,6.9 years of experience with current role as AI Engineer. Strong background in Python. Excellent recruiter response rate (81%).
+CAND_0011687,55,0.429,7.8 years of experience with current role as Senior NLP Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (89%).
+CAND_0015097,56,0.429,6.0 years of experience with current role as Senior Software Engineer (ML). Strong background in Python. Excellent recruiter response rate (69%).
+CAND_0077337,57,0.4287,7.0 years of experience with current role as Staff Machine Learning Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (95%).
+CAND_0002793,58,0.4281,5.5 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (77%).
+CAND_0049771,59,0.4273,5.0 years of experience with current role as AI Research Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (81%).
+CAND_0096142,60,0.4264,5.0 years of experience with current role as Applied ML Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (84%). Concern: notice period is long (120 days).
+CAND_0018499,61,0.4251,7.2 years of experience with current role as Senior Machine Learning Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (61%).
+CAND_0004402,62,0.4249,6.0 years of experience with current role as AI Research Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (83%).
+CAND_0075249,63,0.4247,6.2 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (82%).
+CAND_0025923,64,0.4233,5.0 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (84%).
+CAND_0069905,65,0.4226,6.6 years of experience with current role as Applied ML Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (78%). Concern: notice period is long (90 days).
+CAND_0015967,66,0.4216,5.4 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval.
+CAND_0007567,67,0.4199,6.1 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (80%).
+CAND_0078042,68,0.4198,4.7 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (91%).
+CAND_0007009,69,0.4184,7.9 years of experience with current role as Recommendation Systems Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (62%).
+CAND_0014063,70,0.4184,5.4 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (69%).
+CAND_0037160,71,0.417,6.0 years of experience with current role as Data Scientist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (74%).
+CAND_0071974,72,0.417,7.8 years of experience with current role as Senior AI Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (76%).
+CAND_0043637,73,0.4163,5.5 years of experience with current role as Junior ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (92%).
+CAND_0073883,74,0.4155,5.3 years of experience with current role as AI Specialist. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (92%). Concern: notice period is long (90 days).
+CAND_0064326,75,0.4138,7.6 years of experience with current role as Search Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (94%).
+CAND_0088025,76,0.4135,8.6 years of experience with current role as Staff Machine Learning Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (83%). Concern: notice period is long (90 days).
+CAND_0094728,77,0.4132,6.5 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval.
+CAND_0024878,78,0.4118,5.7 years of experience with current role as AI Specialist. Excellent recruiter response rate (84%).
+CAND_0029439,79,0.4116,6.4 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (60%).
+CAND_0061265,80,0.4113,6.6 years of experience with current role as Recommendation Systems Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (94%). Concern: notice period is long (120 days).
+CAND_0079176,81,0.4104,5.3 years of experience with current role as AI Specialist. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (73%). Concern: notice period is long (120 days).
+CAND_0007052,82,0.4099,6.5 years of experience with current role as ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (85%).
+CAND_0095213,83,0.4096,5.1 years of experience with current role as ML Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (67%).
+CAND_0022812,84,0.4094,4.5 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (79%).
+CAND_0024147,85,0.407,5.9 years of experience with current role as ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (84%).
+CAND_0019880,86,0.4058,5.7 years of experience with current role as AI Specialist. Excellent recruiter response rate (68%).
+CAND_0003841,87,0.4051,5.0 years of experience with current role as ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (71%).
+CAND_0022870,88,0.4051,6.7 years of experience with current role as AI Specialist. Strong background in Python and Vector DBs/Retrieval.
+CAND_0022852,89,0.4048,5.4 years of experience with current role as AI Research Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (86%). Concern: notice period is long (120 days).
+CAND_0015528,90,0.4047,7.4 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (53%).
+CAND_0052335,91,0.4038,6.4 years of experience with current role as Applied ML Engineer. Excellent recruiter response rate (79%).
+CAND_0039383,92,0.4028,7.1 years of experience with current role as Applied ML Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (61%). Concern: notice period is long (90 days).
+CAND_0070514,93,0.4023,5.5 years of experience with current role as AI Specialist. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (80%).
+CAND_0098952,94,0.4017,5.5 years of experience with current role as AI Research Engineer. Strong background in Python. Excellent recruiter response rate (66%).
+CAND_0040887,95,0.4006,4.7 years of experience with current role as Machine Learning Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (84%).
+CAND_0082086,96,0.3998,6.0 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (85%).
+CAND_0019288,97,0.3992,5.7 years of experience with current role as AI Research Engineer. Strong background in Vector DBs/Retrieval.
+CAND_0066999,98,0.399,5.9 years of experience with current role as Recommendation Systems Engineer. Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (63%).
+CAND_0082913,99,0.3973,5.5 years of experience with current role as Senior Software Engineer (ML). Strong background in Vector DBs/Retrieval. Excellent recruiter response rate (73%).
+CAND_0020708,100,0.3971,4.2 years of experience with current role as Search Engineer. Strong background in Python and Vector DBs/Retrieval. Excellent recruiter response rate (84%).
